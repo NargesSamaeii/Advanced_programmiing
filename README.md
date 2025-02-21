@@ -13,18 +13,6 @@ In this project, I demonstrate the fine-tuning process using a custom vehicle de
 
 To get started, follow the steps outlined in the Jupyter Notebook `fine_tune.ipynb`. This notebook provides a comprehensive walkthrough of the entire process, from dataset preparation to model training and evaluation.
 
-## Usage
-1. Clone this repository:
-```
-git clone https://github.com/your-username/fine-tune-object-detector.git
-cd fine-tune-object-detector
-```
-2. Install the required Python packages using the requirements.txt file:
-```bash
-pip install -r requirements.txt
-```
-3. Open and run the Jupyter Notebook fine_tune.ipynb to start the fine-tuning process.
-4. Follow the step-by-step instructions in the notebook to fine-tune the Faster R-CNN model and evaluate its performance.
 
 ## Results
 The results of the fine-tuning process and the model's performance on the validation set can be visualized using the provided visualization functions. The notebook guides you through the process of interpreting the model's predictions and assessing its accuracy.
